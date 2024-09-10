@@ -1,0 +1,46 @@
+﻿# Compiled files
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of the auto-restore feature in NuGet 4+
+**/[Pp]ackages/*
+# Uncomment if you have NuGet 3.x installed
+#!**/[Pp]ackages/build/
+#!**/[Pp]ackages/repositories.config
+
+# Microsoft Visual Studio
+.vs/
+.vscode/
+
+# Rider project files
+.idea/
+
+# Logs
+*.log
+
+# Entity Framework Migrations
+Migrations/
+
+# IIS
+.idea/
+.vs/
+.vscode/
+*.vspscc
+*.vspcc
+*.pidb
+*.userprefs
+Generated/
+project.lock.json
+project.fragment.lock.json
